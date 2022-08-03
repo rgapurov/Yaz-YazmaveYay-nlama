@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dersASP", "dersASP\dersASP.csproj", "{2A807CC2-2311-452D-82B9-B25440DCF865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersNote", "DersNote\DersNote.csproj", "{2155149F-39D8-4BB1-B0F4-5FFD6976F4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A807CC2-2311-452D-82B9-B25440DCF865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A807CC2-2311-452D-82B9-B25440DCF865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A807CC2-2311-452D-82B9-B25440DCF865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A807CC2-2311-452D-82B9-B25440DCF865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2155149F-39D8-4BB1-B0F4-5FFD6976F4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2155149F-39D8-4BB1-B0F4-5FFD6976F4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2155149F-39D8-4BB1-B0F4-5FFD6976F4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2155149F-39D8-4BB1-B0F4-5FFD6976F4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BAFFE49-4425-4F03-812A-FBE16317848D}
+	EndGlobalSection
+EndGlobal
